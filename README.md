@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/jlsutpi-coding/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
 | [0217-contains-duplicate](https://github.com/jlsutpi-coding/leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/jlsutpi-coding/leetcode-solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/jlsutpi-coding/leetcode-solutions/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -26,4 +27,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/jlsutpi-coding/leetcode-solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/jlsutpi-coding/leetcode-solutions/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 <!---LeetCode Topics End-->

@@ -33,9 +33,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1768-merge-strings-alternately](https://github.com/jlsutpi-coding/leetcode-solutions/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/jlsutpi-coding/leetcode-solutions/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/jlsutpi-coding/leetcode-solutions/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1768-merge-strings-alternately](https://github.com/jlsutpi-coding/leetcode-solutions/tree/main/1768-merge-strings-alternately/) | Easy |
 <!---LeetCode Topics End-->

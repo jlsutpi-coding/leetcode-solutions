@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/jlsutpi-coding/leetcode-solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0217-contains-duplicate](https://github.com/jlsutpi-coding/leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/jlsutpi-coding/leetcode-solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1848-minimum-distance-to-the-target-element](https://github.com/jlsutpi-coding/leetcode-solutions/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/jlsutpi-coding/leetcode-solutions/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/jlsutpi-coding/leetcode-solutions/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 ## Hash Table

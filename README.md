@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/jlsutpi-coding/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
+| [0014-longest-common-prefix](https://github.com/jlsutpi-coding/leetcode-solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0217-contains-duplicate](https://github.com/jlsutpi-coding/leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/jlsutpi-coding/leetcode-solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/jlsutpi-coding/leetcode-solutions/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
@@ -33,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/jlsutpi-coding/leetcode-solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/jlsutpi-coding/leetcode-solutions/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/jlsutpi-coding/leetcode-solutions/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 ## Simulation
@@ -43,4 +45,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1768-merge-strings-alternately](https://github.com/jlsutpi-coding/leetcode-solutions/tree/main/1768-merge-strings-alternately/) | Easy |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/jlsutpi-coding/leetcode-solutions/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->

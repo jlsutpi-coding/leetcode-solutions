@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/jlsutpi-coding/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
 | [0014-longest-common-prefix](https://github.com/jlsutpi-coding/leetcode-solutions/tree/main/0014-longest-common-prefix/) | Easy |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/jlsutpi-coding/leetcode-solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/jlsutpi-coding/leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/jlsutpi-coding/leetcode-solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1848-minimum-distance-to-the-target-element](https://github.com/jlsutpi-coding/leetcode-solutions/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
@@ -48,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/jlsutpi-coding/leetcode-solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/jlsutpi-coding/leetcode-solutions/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
